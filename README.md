@@ -7,4 +7,3 @@ In the first stage, a dual-branch MiniResNet backbone is employed to extract fea
 In the second stage, fused features are organized into spatial feature grids and further processed by a spatial relation modeling module. The module combines convolutional neural networks and bidirectional LSTMs to capture both local spatial patterns and long-range contextual dependencies along horizontal and vertical directions, enabling more accurate urban functional zone classification.
 
 This repository provides the core implementation of the proposed framework in PyTorch. The code is intended for research and educational purposes in urban computing, remote sensing image analysis, and multi-modal deep learning.
-<img width="1766" height="891" alt="715b400f-f9e6-441f-bfbb-954cbfc21fcc" src="https://github.com/user-attachments/assets/483b4921-f04c-47b8-98df-cf67282fc726" />
